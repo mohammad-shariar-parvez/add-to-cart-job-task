@@ -1,4 +1,4 @@
-# Add to cart 
+# Add To Cart 
 
 This project is a simple food ordering app that allows users to browse food items, add them to the cart, and manage the cart items.
 
